@@ -1,0 +1,60 @@
+{
+    "0001" : {
+        "Volunteer Info" : {
+            "Preferred Name" : "Jazper Lu",
+            "Passport Name" : "Jazper Lu",
+            "Phone Number" : "13614110616",
+            "Email" : "jazper.lu@daischina.net",
+            "Wechat ID" : "jazperlu",
+            "Nationality" : "US",
+            "High School Name": "Dalian American International School",
+            "Date of Birth" : "3/10/2003",
+            "Begin Date" : "08/15/18",
+            "Active?" : "Yes",
+            "HS Graduation" : "2021",
+            
+            "Desired Teams" : {
+                "Clubs" : false,
+                "Marketing" : false,
+                "Curriculum" : false,
+                "Technology" : false,
+                "Communications" : false,
+                "Fundraising" : false,
+                "Govt. Relations" : false,
+                "Community Relations" : false,
+                "Partner Relations" : false
+            },
+
+            "Training Level" : {
+                "V1" : false,
+                "V2" : false,
+                "V3" : false,
+                "V4" : false,
+                "V5" : true
+            },
+
+            "Volunteer Step" : {
+                "Step 1" : false,
+                "Step 2" : false,
+                "Step 3" : false,
+                "Step 4" : true
+            },
+    
+            "Country University / Major?" : "Study Political Science in the US"
+        },
+        
+        "Volunteer Hours" : {
+            "Hours" : {
+                "11/13/2020" : "2",
+                "11/20/2020" : "1.5",
+                "11/27/2020" : "2"
+            },
+
+            "Evaluation" : {
+                "11/13/2020" : "Feedback",
+                "11/20/2020" : "Feedback",
+                "11/27/2020" : "Feedback"
+            }
+        }
+    }
+}
