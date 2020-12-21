@@ -25,20 +25,8 @@
                 "Partner Relations" : false
             },
 
-            "Training Level" : {
-                "V1" : false,
-                "V2" : false,
-                "V3" : false,
-                "V4" : false,
-                "V5" : true
-            },
-
-            "Volunteer Step" : {
-                "Step 1" : false,
-                "Step 2" : false,
-                "Step 3" : false,
-                "Step 4" : true
-            },
+            "Training Level" : "V1",
+            "Volunteer Step" : "S3",
     
             "Country University / Major?" : "Study Political Science in the US"
         },
